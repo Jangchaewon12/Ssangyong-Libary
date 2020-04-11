@@ -32,7 +32,3 @@
 ---
 ## 데이터 구조
 ![Project03](https://user-images.githubusercontent.com/57277591/79045185-c2709580-7c44-11ea-905f-4dff23419957.jpg)
-
-### 느낀점
-- 
-
